@@ -1,0 +1,10 @@
+{
+  "name": "bun-essay-review",
+  "module": "src/index.js",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "bun run src/index.js",
+    "dev": "bun run src/index.js"
+  }
+}

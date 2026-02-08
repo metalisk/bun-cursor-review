@@ -1,0 +1,5 @@
+{
+  "openrouter_api_key": "your-openrouter-api-key-here",
+  "model_writer": "openai/gpt-4o-mini",
+  "model_reviewer": "openai/gpt-4o-mini"
+}
